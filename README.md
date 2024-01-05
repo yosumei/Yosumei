@@ -13,8 +13,11 @@ Contributions:
 - Interest and contributions to open-source projects.
 - Interaction with the technology community and engaging in idea exchange.
 
-Communication: E-mail:nurish60@gmail.com 
-Instagram:Yosumei
+Communication: 
+- E-mail:nurish60@gmail.com 
+- Instagram:Yosumei
+- LinkedIn:https://www.linkedin.com/in/yosumei/
+
 
 
 
