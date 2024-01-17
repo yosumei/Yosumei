@@ -18,7 +18,7 @@ Communication:
 - Instagram:Yosumei
 - LinkedIn:https://www.linkedin.com/in/yosumei/
 
-Profile Views  [![HitCount](https://hits.dwyl.com/yosumei/{project}.svg?style=flat-square)](http://hits.dwyl.com/yosumei/{project})
+Profile Views    [![HitCount](https://hits.dwyl.com/yosumei/yosumei.svg?style=flat-square)](http://hits.dwyl.com/yosumei/yosumei)
 
 
 
